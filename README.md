@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-
-=======
 # Django REST API #
 
 This a simple API to demostrate how to create an API using Django REST Framework,continous integration using  CircleCI, Testing
