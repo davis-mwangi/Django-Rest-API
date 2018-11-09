@@ -1,8 +1,19 @@
-# pytest cache directory #
+# Django REST API #
 
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+This a simple API to demostrate how to create an API using Django REST Framework,using Continous Integration, Testing and documenting using Swaagger.
 
-**Do not** commit this to version control.
+### How to run the APP ###
 
-See [the docs](https://docs.pytest.org/en/latest/cache.html) for more information.
+```
+git clone <url>
+cd Django-Rest-API/pollsapi
+pip install -r requirements.txt
+python manage.py runserver
+```
+
+Run tests
+
+```
+python manage.py test
+```
+
