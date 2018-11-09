@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/davis-mwangi/Django-Rest-API/tree/master.svg?style=svg)](https://circleci.com/gh/davis-mwangi/Django-Rest-API/tree/master)
 # Django REST API #
 
 This a simple API to demostrate how to create an API using Django REST Framework,continous integration using  CircleCI, Testing
