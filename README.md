@@ -1,6 +1,7 @@
 # Django REST API #
 
-This a simple API to demostrate how to create an API using Django REST Framework,using Continous Integration, Testing and documenting using Swaagger.
+This a simple API to demostrate how to create an API using Django REST Framework,continous integration using  CircleCI, Testing
+ using Pytest and documenting using Swaagger.
 
 ### How to run the APP ###
 
